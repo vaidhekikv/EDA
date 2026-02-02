@@ -15,7 +15,6 @@ Numerical Columns:
 - Age
 - Satisfaction Score
 - Purchase Frequency
-
 Categorical Column:
 - Region
 Tools and Libraries
@@ -37,3 +36,9 @@ Expected Outcomes
 - Identification of potential relationships between variables
 Conclusion
 This exploratory data analysis project provides practical experience in handling data from inception to insight, reinforcing essential data science concepts and analytical thinking.
+
+
+
+
+
+
